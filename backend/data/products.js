@@ -1,4 +1,3 @@
-const { builtinModules } = require("module")
 
 const products = [
   {
@@ -81,4 +80,4 @@ const products = [
   },
 ]
 
-module.exports =  products;
+export default products;
